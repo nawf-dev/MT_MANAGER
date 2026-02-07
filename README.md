@@ -3,8 +3,9 @@
 [![MT5](https://img.shields.io/badge/Platform-MetaTrader%205-blue)](https://www.metatrader5.com/)
 [![MQL5](https://img.shields.io/badge/Language-MQL5-orange)](https://www.mql5.com/)
 [![License](https://img.shields.io/badge/License-Freeware-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/nawf-dev/MT_MANAGER)
-[![Download](https://img.shields.io/badge/Download-MT__MANAGER.ex5-success)](https://github.com/nawf-dev/MT_MANAGER/raw/main/MT_MANAGER.ex5)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/nawf-dev/MT_MANAGER/releases)
+[![Download](https://img.shields.io/badge/Download-MT__MANAGER.ex5-success)](https://github.com/nawf-dev/MT_MANAGER/releases/latest/download/MT_MANAGER.ex5)
+[![GitHub release](https://img.shields.io/github/v/release/nawf-dev/MT_MANAGER)](https://github.com/nawf-dev/MT_MANAGER/releases/latest)
 
 > **Professional Position Management Tool for MetaTrader 5**  
 > Manage Take Profit, Stop Loss, and monitor all your trades from a single, powerful interface.
@@ -131,7 +132,8 @@ Perfect for scalpers, day traders, and swing traders who manage multiple positio
 
 1. **Download the EA**
    
-   👉 **[DOWNLOAD MT_MANAGER.ex5](https://github.com/nawf-dev/MT_MANAGER/raw/main/MT_MANAGER.ex5)**
+   👉 **[DOWNLOAD MT_MANAGER.ex5](https://github.com/nawf-dev/MT_MANAGER/releases/latest/download/MT_MANAGER.ex5)**  
+   _(From GitHub Releases)_
 
 2. **Copy to MetaTrader 5 folder**
    

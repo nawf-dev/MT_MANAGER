@@ -5,8 +5,8 @@
 *.mq5
 *.mqh
 
-# Compiled files (keep .ex5 in repo)
-# *.ex5
+# Compiled files (upload to GitHub Release instead)
+*.ex5
 *.compiled
 
 # Personal settings
