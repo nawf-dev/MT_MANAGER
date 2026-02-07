@@ -1,8 +1,12 @@
 # MetaTrader 5 Files
-*.ex5
 *.log
 
-# Compiled files
+# Source code (not open source)
+*.mq5
+*.mqh
+
+# Compiled files (keep .ex5 in repo)
+# *.ex5
 *.compiled
 
 # Personal settings

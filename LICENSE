@@ -1,24 +1,45 @@
-MIT License
+FREEWARE LICENSE
 
-Copyright (c) 2025 nwf
+Copyright (c) 2025 nwf (nawf-dev)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TERMS AND CONDITIONS FOR USE:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. GRANT OF LICENSE
+   This software (MT_MANAGER Expert Advisor) is provided as FREEWARE for 
+   personal and commercial use. You are granted a non-exclusive, non-transferable 
+   license to use this software on unlimited MetaTrader 5 accounts.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. PERMITTED USES
+   - ✅ Use on personal trading accounts
+   - ✅ Use on commercial/professional trading accounts
+   - ✅ Install on multiple MT5 platforms
+   - ✅ Use for personal profit
+   - ✅ Share download link (https://github.com/nawf-dev/MT_MANAGER)
+
+3. RESTRICTIONS
+   - ❌ NO source code access - This is closed source software
+   - ❌ NO redistribution - Do not re-upload this file to other websites
+   - ❌ NO selling - Do not sell, rent, or lease this software
+   - ❌ NO reverse engineering - Do not decompile, disassemble, or modify
+   - ❌ NO removal of copyright notices
+   - ❌ NO claiming authorship
+
+4. DISTRIBUTION
+   This software may ONLY be distributed via the official GitHub repository:
+   https://github.com/nawf-dev/MT_MANAGER
+   
+   Any other distribution channels are UNAUTHORIZED.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -37,7 +58,14 @@ you should not invest money that you cannot afford to lose.
 You should be aware of all the risks associated with foreign exchange trading, 
 and seek advice from an independent financial advisor if you have any doubts.
 
-The author of this software is not liable for any losses or damages, direct or 
+The author of this software is NOT LIABLE for any losses or damages, direct or 
 indirect, that may arise from the use of this software. Use at your own risk.
 
 Past performance is not indicative of future results.
+
+---
+
+For support and updates, visit:
+https://github.com/nawf-dev/MT_MANAGER
+
+Copyright (c) 2025 nwf. All rights reserved.

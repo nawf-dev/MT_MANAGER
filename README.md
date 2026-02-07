@@ -2,8 +2,9 @@
 
 [![MT5](https://img.shields.io/badge/Platform-MetaTrader%205-blue)](https://www.metatrader5.com/)
 [![MQL5](https://img.shields.io/badge/Language-MQL5-orange)](https://www.mql5.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/yourusername/mt_manager)
+[![License](https://img.shields.io/badge/License-Freeware-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/nawf-dev/MT_MANAGER)
+[![Download](https://img.shields.io/badge/Download-MT__MANAGER.ex5-success)](https://github.com/nawf-dev/MT_MANAGER/raw/main/MT_MANAGER.ex5)
 
 > **Professional Position Management Tool for MetaTrader 5**  
 > Manage Take Profit, Stop Loss, and monitor all your trades from a single, powerful interface.
@@ -126,41 +127,31 @@ Perfect for scalpers, day traders, and swing traders who manage multiple positio
 
 ## 📦 Installation
 
-### Method 1: Direct Installation (Recommended)
+### Quick Installation (3 Steps)
 
 1. **Download the EA**
-   ```
-   Download MT_MANAGER.mq5
-   ```
+   
+   👉 **[DOWNLOAD MT_MANAGER.ex5](https://github.com/nawf-dev/MT_MANAGER/raw/main/MT_MANAGER.ex5)**
 
 2. **Copy to MetaTrader 5 folder**
+   
+   Copy `MT_MANAGER.ex5` to:
    ```
    C:\Users\[YourUsername]\AppData\Roaming\MetaQuotes\Terminal\[TerminalID]\MQL5\Experts\
    ```
    
-   Or use MetaEditor:
-   - Open MetaEditor (F4 in MT5)
-   - File → Open Data Folder
+   **Quick way:**
+   - Open MT5
+   - Press `Ctrl + Shift + D` (Open Data Folder)
    - Navigate to `MQL5\Experts\`
-   - Paste `MT_MANAGER.mq5`
+   - Paste `MT_MANAGER.ex5`
 
-3. **Compile**
-   - Open MT_MANAGER.mq5 in MetaEditor
-   - Press F7 or click "Compile"
-   - Check for "0 errors, 0 warnings"
+3. **Refresh MT5**
+   - In MT5, right-click on **Navigator → Expert Advisors**
+   - Click **"Refresh"**
+   - You should see **"MT_MANAGER by nwf"**
 
-4. **Refresh MT5**
-   - In MT5, right-click on Navigator → Expert Advisors
-   - Click "Refresh"
-   - You should see "MT_MANAGER by nwf"
-
-### Method 2: Clone Repository
-
-```bash
-git clone https://github.com/yourusername/mt_manager.git
-cd mt_manager
-# Copy MT_MANAGER.mq5 to your MT5 Experts folder
-```
+✅ **Done! Ready to use.**
 
 ---
 
@@ -693,7 +684,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Reporting Bugs
 
-1. Check [existing issues](https://github.com/yourusername/mt_manager/issues)
+1. Check [existing issues](https://github.com/nawf-dev/MT_MANAGER/issues)
 2. Create new issue with:
    - MT5 version
    - Broker name
@@ -707,34 +698,24 @@ Contributions are welcome! Here's how you can help:
 2. Open issue with tag `enhancement`
 3. Describe use case and benefit
 
-### Code Contributions
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
-### Code Style Guidelines
-
-- Use clear variable names (English)
-- Comment complex logic
-- Follow existing code structure
-- Test thoroughly before PR
+**Note:** Source code is not publicly available, but suggestions and bug reports are highly appreciated!
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This software is provided as **Freeware** for personal and commercial use.
 
-**Summary:**
-- ✅ Free to use for personal and commercial purposes
-- ✅ Free to modify and redistribute
-- ✅ No warranty provided
-- ⚠️ Author not liable for trading losses
+**Terms:**
+- ✅ **Free to use** for personal and commercial trading
+- ✅ **Free to download** and install on unlimited MT5 accounts
+- ❌ **Not open source** - Source code is proprietary
+- ❌ **No redistribution** - Do not re-upload or sell this EA
+- ❌ **No reverse engineering** - Do not decompile or modify
+- ✅ **No warranty** - Use at your own risk
+- ⚠️ **Author not liable** for any trading losses
 
-**Disclaimer:** Trading forex carries significant risk. This EA is a tool, not a guarantee of profit. Always use proper risk management and test on demo before live trading.
+**Trading Disclaimer:** Trading forex carries significant risk. This EA is a tool, not a guarantee of profit. Always use proper risk management and test on demo before live trading.
 
 ---
 
@@ -742,9 +723,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **nwf (Developer)**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- MQL5: [Your MQL5 Profile](https://www.mql5.com/en/users/yourprofile)
+- GitHub: [@nawf-dev](https://github.com/nawf-dev)
+- Repository: [MT_MANAGER](https://github.com/nawf-dev/MT_MANAGER)
 
 ---
 
