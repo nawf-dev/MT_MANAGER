@@ -1,0 +1,43 @@
+# MetaTrader 5 Files
+*.ex5
+*.log
+
+# Compiled files
+*.compiled
+
+# Personal settings
+*.ini
+*.set
+
+# Backups
+*.bak
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+*.test.mq5
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation (these are included, just examples to ignore if needed)
+# *.md
+
+# Specific EA files to ignore (optional)
+# SRBreakout*.mq5
+# QUICK_START_GUIDE.txt
+# TESTING_SETTINGS.txt
+# FILTER_*.txt
+# FILTER_*.md
+# V4.1_*.md
+# CHART_*.txt
+# CARA_*.txt
